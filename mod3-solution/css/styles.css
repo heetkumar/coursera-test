@@ -2,13 +2,11 @@
     box-sizing: border-box;
 }
 
-html{
-    background : url("food.jpg") no-repeat;
-    background-size: cover;
-}
-
 body{
     font-family: 'Comic Sans MS';
+    background-image: url("food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #nav-list > li {
