@@ -30,13 +30,13 @@ h2 > b {
 }
 
 #section-1{
-    background-color: #C3FF80;
+    background-color: LightCoral;
     font-style: italic;
     font-weight: bold;
 }
 
 .chicken{
-    background-color: pink;
+    background-color: DarkSeaGreen;
     text-align: center;
     font-weight: bold;
     border: 2px solid black;
@@ -47,7 +47,7 @@ h2 > b {
 }
 
 #section-2 {
-    background-color: #B3E5FF;
+    background-color: PaleGreen;
     font-style:italic; 
     font-weight: bold;
 }
@@ -64,7 +64,7 @@ h2 > b {
 }
 
 #section-3 {
-    background-color: #a285bb;
+    background-color: DarkCyan;
     font-style:italic;
     font-weight: bold;
 }
